@@ -1,0 +1,42 @@
+h1 {
+  margin-bottom: 10px;
+}
+
+.image {
+  border: 20px;
+  border-style: hidden;
+  border-radius: 10px;
+  float: left;
+  width: 185px;
+  height: 205px;
+  margin-right: 20px;
+  margin-left: 10%;
+  margin-bottom: 20px;
+}
+
+.img-responsive {
+  border: 5px;
+  border-style: hidden;
+  border-radius: 10px;
+  float: left;
+  margin-right: 20px;
+  margin-left: 10%;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10px 10% 10px 10%;
+}
+
+#hero {
+  margin-bottom: 25px;
+}
+
+#click-here {
+  margin-top: 25px;
+}
+
+#copyright {
+  margin-top: 20px;
+  text-align: center;
+}
